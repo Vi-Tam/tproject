@@ -163,14 +163,14 @@ html{
 .zoom {
 /*  background-color: green;*/
   transition: transform 0.6s; /* Animation */
-  margin: 0 auto;
+  margin: 0 70px;
 }
 .zoom:hover {
 	transform: scale(2);
   	transform-origin: center;
 }
 .sanpham-1{
-	width: 320px;
+	width: 300px;
 	height: 400px;
 	overflow: hidden;
 /*	background: #7F696A;*/
@@ -190,7 +190,7 @@ html{
 	width: 320px;
 }
 .sanpham-3{
-	width: 300px;
+	width: 320px;
 	height: 400px;
 	overflow: hidden;
 /*	background: #747797;*/
