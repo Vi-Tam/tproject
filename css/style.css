@@ -166,7 +166,7 @@ html{
   margin: 0 70px;
 }
 .zoom:hover {
-	transform: scale(2);
+	transform: scale(1.8);
   	transform-origin: center;
 }
 .sanpham-1{
